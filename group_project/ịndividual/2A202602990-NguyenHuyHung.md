@@ -12,10 +12,10 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 ## Thông tin
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Repository/branch:
+- Họ và tên: Nguyễn Huy Hùng  
+- Mã học viên: 2A202602990
+- Nhóm: SaBiChuong
+- Repository/branch: 02990-NguyenHuyHung
 
 ## Phần việc đã thực hiện
 
